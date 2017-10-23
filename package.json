@@ -1,0 +1,17 @@
+{
+  "name": "header-parser",
+  "version" : "1.0.0",
+  "description": "Header Parser",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author":"zaknefeinn@gmail.com",
+    "license": "ISC",
+"dependencies": {
+    "express": "^4.16.2",
+    "public-ip": "^2.3.5"
+  }
+ 
+}
